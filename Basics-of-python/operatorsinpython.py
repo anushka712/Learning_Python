@@ -12,3 +12,8 @@ print("\n")
 # See the differnce of using "\n"
 print("Hello World!")
 print("Hello \n World!")
+
+# To take inputs from users
+a=int(input("Enter the value of a:"))
+b=int(input("Enter the value of b:"))
+print("The sum of two number a and b is:",a+b)
