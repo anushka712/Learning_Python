@@ -17,3 +17,9 @@ print("Hello \n World!")
 a=int(input("Enter the value of a:"))
 b=int(input("Enter the value of b:"))
 print("The sum of two number a and b is:",a+b)
+
+# Using of if-else statement
+if(a>b):
+  print("The value of a is greater")
+else:
+  print("The value of b is greater")
