@@ -23,3 +23,12 @@ if(a>b):
   print("The value of a is greater")
 else:
   print("The value of b is greater")
+
+  # Shortcuts on python
+#To convert lower case to upper case
+a=("hello beatiful people...what's up!!!!")
+print(a.upper())
+
+#To convert upper case to lower case
+a=("HEllO BEAUTIFUL PEOPLE......WHAT'S UP!!!")
+print(a.lower())
