@@ -23,6 +23,15 @@ if(a>b):
   print("The value of a is greater")
 else:
   print("The value of b is greater")
+  
+   # using of elif
+  age=int(input("Enter your age"))
+  if(age>18):
+    print("You are eligible to vote")
+  elif(age<18):
+    print("You aren't eligible to vote")
+  else:
+    print("You are an invalid person")
 
   # Shortcuts on python
 #To convert lower case to upper case
